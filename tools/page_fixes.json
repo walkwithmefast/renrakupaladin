@@ -1,0 +1,2026 @@
+{
+"b14cc8cf-8d19-4306-a71a-9a7f761eb321": {
+"name": "Sugammadex",
+"source": "BB",
+"file": "gear",
+"from": 19,
+"to": 20,
+"how": "strict"
+},
+"337489e0-ab2b-4b86-902c-85790ab5aec3": {
+"name": "Rapid Infuser",
+"source": "BB",
+"file": "gear",
+"from": 22,
+"to": 23,
+"how": "strict"
+},
+"b9554fe8-fc04-4746-8f5f-32d5ee9053be": {
+"name": "Ares Briefcase Shield",
+"source": "CA",
+"file": "armor",
+"from": 136,
+"to": 137,
+"how": "strict"
+},
+"c9424dfb-1e01-4073-995a-7935efc1894d": {
+"name": "Catsuit",
+"source": "CA",
+"file": "armor",
+"from": 136,
+"to": 137,
+"how": "strict"
+},
+"f22a86ba-e660-4c32-a998-d04def23d287": {
+"name": "Scout's Tux",
+"source": "CA",
+"file": "armor",
+"from": 136,
+"to": 137,
+"how": "strict"
+},
+"975b5ab6-c230-44ba-8491-261aaa012489": {
+"name": "Genemarked Pheromones",
+"source": "CA",
+"file": "gear",
+"from": 142,
+"to": 143,
+"how": "strict"
+},
+"08d41449-fcd2-4917-b8e4-0cbd97ce5570": {
+"name": "Pattern Recognition",
+"source": "CA",
+"file": "gear",
+"from": 149,
+"to": 150,
+"how": "strict"
+},
+"28848160-65f7-495c-a04a-218b17a9cecb": {
+"name": "Workplace",
+"source": "CA",
+"file": "gear",
+"from": 148,
+"to": 150,
+"how": "strict"
+},
+"06cc6008-2aa1-4d39-8a5c-884136d82fee": {
+"name": "Modified Spray Pen",
+"source": "CA",
+"file": "weapons",
+"from": 134,
+"to": 135,
+"how": "strict"
+},
+"70bd2c89-3432-4270-8e4c-d8d979114148": {
+"name": "Vocal Range Expander",
+"source": "CF",
+"file": "bioware",
+"from": 115,
+"to": 117,
+"how": "strict"
+},
+"0dc21074-6b2c-446a-aadc-e8304c9c124f": {
+"name": "Reproductive Replacement, Male",
+"source": "CF",
+"file": "bioware",
+"from": 118,
+"to": 119,
+"how": "loose"
+},
+"a2acbc5a-187c-4e6f-95e5-c015f1aab56b": {
+"name": "Thickened Digestive Tract Lining",
+"source": "CF",
+"file": "bioware",
+"from": 160,
+"to": 159,
+"how": "strict"
+},
+"6a62e21f-f291-4e93-b109-df9c56c938f9": {
+"name": "Dareadrenaline",
+"source": "CF",
+"file": "bioware",
+"from": 160,
+"to": 162,
+"how": "strict"
+},
+"6aa86a49-d947-47ac-bf04-e1578c029333": {
+"name": "Tetrachromacy",
+"source": "CF",
+"file": "bioware",
+"from": 161,
+"to": 162,
+"how": "strict"
+},
+"ae1d7612-7805-4962-8f9a-beb17619762d": {
+"name": "Vasocon",
+"source": "CF",
+"file": "bioware",
+"from": 161,
+"to": 162,
+"how": "strict"
+},
+"afe25e41-8d6c-4476-9d18-ecd23219207c": {
+"name": "Reflex Recorder Optimization",
+"source": "CF",
+"file": "bioware",
+"from": 165,
+"to": 166,
+"how": "strict"
+},
+"738c15f8-49ea-417e-9728-b4c78bc72c18": {
+"name": "Cleaner Leech",
+"source": "CF",
+"file": "bioware",
+"from": 123,
+"to": 124,
+"how": "strict"
+},
+"573b2541-9e9a-4b9d-b219-27fb6c808d40": {
+"name": "Booster Endosont",
+"source": "CF",
+"file": "bioware",
+"from": 123,
+"to": 124,
+"how": "strict"
+},
+"d97a6e2f-0e3d-4f9b-a046-e1a86d5dad88": {
+"name": "Expanded Reservoir",
+"source": "CF",
+"file": "cyberware",
+"from": 82,
+"to": 85,
+"how": "strict"
+},
+"91e3abfd-8c74-4026-82d6-2d1884424dae": {
+"name": "Retractable Climbing Claws (Hands)",
+"source": "CF",
+"file": "cyberware",
+"from": 86,
+"to": 85,
+"how": "strict"
+},
+"21953b9b-43e8-41a9-af03-5af71797585b": {
+"name": "Breast Implant 2.0 (One Breast)",
+"source": "CF",
+"file": "cyberware",
+"from": 73,
+"to": 74,
+"how": "strict"
+},
+"3e90ac38-367e-48fe-a3d1-633570d061ab": {
+"name": "Built-in Toolkit",
+"source": "CF",
+"file": "cyberware",
+"from": 86,
+"to": 89,
+"how": "strict"
+},
+"4f7794ce-fd49-48f2-bde7-3501b1799814": {
+"name": "Modular Connector, Wrist",
+"source": "CF",
+"file": "cyberware",
+"from": 88,
+"to": 89,
+"how": "loose"
+},
+"b4394ee8-0490-4a56-8b30-8503351a3c58": {
+"name": "Liminal Body, Centaur",
+"source": "CF",
+"file": "cyberware",
+"from": 87,
+"to": 89,
+"how": "loose"
+},
+"40b7ac95-e4ba-4651-a348-fe277fac52bc": {
+"name": "Monowire (Per Metre)",
+"source": "CF",
+"file": "gear",
+"from": 152,
+"to": 153,
+"how": "strict"
+},
+"c1ed1ff0-8ff7-4c38-a198-e27a7c2c91a9": {
+"name": "NanoSpy",
+"source": "CF",
+"file": "gear",
+"from": 152,
+"to": 153,
+"how": "strict"
+},
+"4f4f8801-dfe6-4847-add3-4afa66ec547f": {
+"name": "Savior Medkit Supplies",
+"source": "CF",
+"file": "gear",
+"from": 152,
+"to": 154,
+"how": "strict"
+},
+"f634ee1f-0c3f-47bd-bea7-10236b24de39": {
+"name": "Smart Corrosives",
+"source": "CF",
+"file": "gear",
+"from": 152,
+"to": 154,
+"how": "strict"
+},
+"32a4d207-a67b-4cdb-a0c8-731320f85ffc": {
+"name": "Better to be Feared Than Loved",
+"source": "CF",
+"file": "qualities",
+"from": 54,
+"to": 55,
+"how": "strict"
+},
+"6d43c580-0285-4d93-bd43-b4edfa091c0e": {
+"name": "Superior Regeneration",
+"source": "DTR",
+"file": "critterpowers",
+"from": 49,
+"to": 50,
+"how": "strict"
+},
+"d0615070-d0c7-4c8b-ae02-442cadd1f38d": {
+"name": "Wounded Fury",
+"source": "DTR",
+"file": "critterpowers",
+"from": 49,
+"to": 50,
+"how": "strict"
+},
+"c330495b-c6af-4744-b399-c6e068864a8d": {
+"name": "Astral Brute",
+"source": "DTR",
+"file": "critterpowers",
+"from": 157,
+"to": 158,
+"how": "strict"
+},
+"4FEE3C62-36E4-41C5-AD87-28256AE53CFC": {
+"name": "Immunity (Cold)",
+"source": "DTR",
+"file": "critterpowers",
+"from": 160,
+"to": 158,
+"how": "strict"
+},
+"e16964a0-5a6e-47ef-8f04-d3ee81ceb411": {
+"name": "Evasion",
+"source": "FA",
+"file": "critterpowers",
+"from": 180,
+"to": 181,
+"how": "strict"
+},
+"e4d6fcbd-a319-4636-bd84-9caf06643dc6": {
+"name": "Superior Reagents",
+"source": "FA",
+"file": "gear",
+"from": 187,
+"to": 188,
+"how": "loose"
+},
+"52348ffc-2d9b-427b-a546-863a9670127e": {
+"name": "Pariah",
+"source": "FA",
+"file": "traditions",
+"from": 85,
+"to": 86,
+"how": "strict"
+},
+"6237233f-1872-45da-b828-16df75a30127": {
+"name": "Bone Spirit",
+"source": "FA",
+"file": "traditions",
+"from": 135,
+"to": 134,
+"how": "strict"
+},
+"0d2bfeea-9d1b-43b5-91f1-1fb84bc3110b": {
+"name": "Vidscreen Display",
+"source": "HKS",
+"file": "gear",
+"from": 77,
+"to": 76,
+"how": "strict"
+},
+"f66e1630-7b3a-4595-868a-9143b372e6f4": {
+"name": "Holographic Concealment",
+"source": "HS",
+"file": "critterpowers",
+"from": 195,
+"to": 196,
+"how": "strict"
+},
+"93484499-4977-45b7-a722-1b58157d7708": {
+"name": "Fold Perception",
+"source": "HS",
+"file": "critterpowers",
+"from": 120,
+"to": 121,
+"how": "strict"
+},
+"6c915799-73ba-470a-b333-b8808127415e": {
+"name": "Agonizing Pain",
+"source": "HS",
+"file": "critterpowers",
+"from": 132,
+"to": 133,
+"how": "strict"
+},
+"9465b7be-1488-4b29-a024-8a7048f305a1": {
+"name": "Sea Lion",
+"source": "HS",
+"file": "critters",
+"from": 43,
+"to": 42,
+"how": "strict"
+},
+"928f0d01-6718-4846-9b3f-52715eac6482": {
+"name": "Domestic Cat",
+"source": "HS",
+"file": "critters",
+"from": 45,
+"to": 44,
+"how": "strict"
+},
+"7a0947bc-4128-4c54-825b-9e7f723f9847": {
+"name": "Ferret",
+"source": "HS",
+"file": "critters",
+"from": 46,
+"to": 45,
+"how": "strict"
+},
+"77c9b816-af11-4aa7-bc94-4c373fd147a6": {
+"name": "Abrams Lobster",
+"source": "HS",
+"file": "critters",
+"from": 53,
+"to": 52,
+"how": "strict"
+},
+"3eff116a-7cf6-46ed-a497-8e0222646ff3": {
+"name": "Shadowhound",
+"source": "HS",
+"file": "critters",
+"from": 71,
+"to": 72,
+"how": "strict"
+},
+"026fe3d7-9994-4f26-8701-d411f09f5f45": {
+"name": "Snow Snake",
+"source": "HS",
+"file": "critters",
+"from": 71,
+"to": 72,
+"how": "strict"
+},
+"003d0b2f-4fa5-4506-98c3-49235aaba6f9": {
+"name": "Demon Rat",
+"source": "HS",
+"file": "critters",
+"from": 59,
+"to": 58,
+"how": "strict"
+},
+"1c661441-08d7-4c9d-afc3-f832299a2b1f": {
+"name": "Shardik",
+"source": "HS",
+"file": "critters",
+"from": 104,
+"to": 103,
+"how": "strict"
+},
+"7f6fede6-988f-45ad-b3b0-a2a8f1fe2f81": {
+"name": "Souleater Leech",
+"source": "HS",
+"file": "critters",
+"from": 106,
+"to": 105,
+"how": "strict"
+},
+"a296f3ad-26c1-40c4-9cdb-732aa5b86f56": {
+"name": "Corpselight",
+"source": "HS",
+"file": "critters",
+"from": 118,
+"to": 119,
+"how": "strict"
+},
+"c7d14563-6c14-4c75-879e-ce6aa86a081c": {
+"name": "Cyberwerewolf",
+"source": "HS",
+"file": "critters",
+"from": 153,
+"to": 152,
+"how": "strict"
+},
+"5c5fd1d5-1c45-4fe9-ad03-df83457b33e6": {
+"name": "CAST w/ Friend or Foe Recognition",
+"source": "HS",
+"file": "cyberware",
+"from": 181,
+"to": 180,
+"how": "loose"
+},
+"2e510666-bc55-42d8-abcb-d79a907ac646": {
+"name": "TRACES",
+"source": "HS",
+"file": "cyberware",
+"from": 182,
+"to": 183,
+"how": "strict"
+},
+"4d96ee55-0929-480e-923d-178e69675541": {
+"name": "Throwing Syringe",
+"source": "HT",
+"file": "gear",
+"from": 183,
+"to": 184,
+"how": "strict"
+},
+"9434fb76-1d7f-463e-b377-b7c07e2a18e2": {
+"name": "Cougar Collapsible Spear",
+"source": "HT",
+"file": "weapons",
+"from": 180,
+"to": 179,
+"how": "strict"
+},
+"5ad79730-ee4b-4191-822d-205af7320281": {
+"name": "Pantheon Industries Hard Case CCOB",
+"source": "KC",
+"file": "armor",
+"from": 70,
+"to": 72,
+"how": "loose"
+},
+"62ad0f12-c603-4c88-b778-e456ca2355f6": {
+"name": "Generic CCOB",
+"source": "KC",
+"file": "armor",
+"from": 70,
+"to": 73,
+"how": "strict"
+},
+"c2fdc729-bc1d-4d3a-a0da-1d5dfa3b897d": {
+"name": "Micro-Hardpoint",
+"source": "KC",
+"file": "armor",
+"from": 73,
+"to": 72,
+"how": "strict"
+},
+"60b3f99f-f903-426a-ae13-ea604e77a956": {
+"name": "Overdrive",
+"source": "KC",
+"file": "complexforms",
+"from": 90,
+"to": 92,
+"how": "strict"
+},
+"8f7e0bfe-ce38-489b-ace7-b0aa4f7e320c": {
+"name": "Energizer",
+"source": "KC",
+"file": "critters",
+"from": 172,
+"to": 171,
+"how": "strict"
+},
+"ae8062f7-8ba1-4e67-aa2c-491a87e72572": {
+"name": "Primate",
+"source": "KC",
+"file": "critters",
+"from": 169,
+"to": 168,
+"how": "strict"
+},
+"a6c0cc9d-d63c-44b3-a668-5c9eb2c9e457": {
+"name": "Saeder-Krupp Last Chance Link",
+"source": "KC",
+"file": "gear",
+"from": 68,
+"to": 69,
+"how": "loose"
+},
+"d900aa9c-5914-4e5b-baa4-b4e0c0625123": {
+"name": "Pantheon Industries \"Co-Pilot\" Mk I",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 71,
+"how": "loose"
+},
+"5294813b-3421-46b6-b30a-de8cab38f89f": {
+"name": "Pantheon Industries \"Co-Pilot\" Mk II",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 71,
+"how": "loose"
+},
+"3727d9a2-c556-4133-8083-d1c61f239034": {
+"name": "Pantheon Industries \"Co-Pilot\" Mk III",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 71,
+"how": "loose"
+},
+"cf954b05-0c06-4fdd-8af6-15b03770bccc": {
+"name": "Pantheon Industries \"Door Gunner\"",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 71,
+"how": "loose"
+},
+"52adb8cf-22a4-4581-a354-0f7b9bcf6999": {
+"name": "Pantheon Industries \"ECM-Warrior\"",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 71,
+"how": "loose"
+},
+"4b7ec6a4-243b-490c-92f5-d337e5cc36de": {
+"name": "Pantheon Industries Mobile CNC",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 72,
+"how": "strict"
+},
+"a9edf32b-dea2-4939-9fa1-016ed3693a23": {
+"name": "Pantheon Industries Shield Wall",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 72,
+"how": "strict"
+},
+"77f02897-28c1-4d53-86b4-eae1dbd85f35": {
+"name": "Pantheon Industries Tactical Program Dongle",
+"source": "KC",
+"file": "gear",
+"from": 70,
+"to": 72,
+"how": "loose"
+},
+"55e05d6a-bc67-469f-b16c-648b4688eb37": {
+"name": "Multiprogram Operating System",
+"source": "KC",
+"file": "gear",
+"from": 58,
+"to": 57,
+"how": "loose"
+},
+"60f11ea5-297d-4898-9fec-a0f67b4d517e": {
+"name": "Pantheon Industries Micro-Dish Transmitter",
+"source": "KC",
+"file": "gear",
+"from": 73,
+"to": 74,
+"how": "loose"
+},
+"516ece95-6b51-48b6-9806-24087dc344c2": {
+"name": "Hacking Savant",
+"source": "KC",
+"file": "lifemodules",
+"from": 80,
+"to": 79,
+"how": "strict"
+},
+"fc502702-45f4-4b70-9e09-cb3c6cad5da0": {
+"name": "Jacked Out",
+"source": "KC",
+"file": "lifemodules",
+"from": 79,
+"to": 81,
+"how": "strict"
+},
+"e812194e-9e7b-4769-bf77-8034a3b306de": {
+"name": "Entertainment Systems Cyclops",
+"source": "R5",
+"file": "vehicles",
+"from": 42,
+"to": 43,
+"how": "loose"
+},
+"16c2885f-ef4a-4f06-92c8-754694790ccb": {
+"name": "Buell Spartan",
+"source": "R5",
+"file": "vehicles",
+"from": 45,
+"to": 44,
+"how": "strict"
+},
+"c8dd9bbc-532b-46c2-9a72-05c3ae4bf05f": {
+"name": "Hyundai Equus",
+"source": "R5",
+"file": "vehicles",
+"from": 52,
+"to": 51,
+"how": "strict"
+},
+"399b9c5f-31c0-475e-a987-caa3e60ea0eb": {
+"name": "Aztechnology Nightrunner",
+"source": "R5",
+"file": "vehicles",
+"from": 81,
+"to": 82,
+"how": "strict"
+},
+"d3184353-13b2-4f02-b74e-55ac1e0246de": {
+"name": "Dassault Sea Sprite",
+"source": "R5",
+"file": "vehicles",
+"from": 98,
+"to": 99,
+"how": "strict"
+},
+"464ef537-768b-447b-9c30-39239234b2a3": {
+"name": "Renegade Works Mothership LAVH",
+"source": "R5",
+"file": "vehicles",
+"from": 105,
+"to": 108,
+"how": "loose"
+},
+"d1289d4c-2b32-450f-bbc1-489dafe39c19": {
+"name": "Citron-Brouillard Smoke Generator (Small)",
+"source": "R5",
+"file": "vehicles",
+"from": 131,
+"to": 130,
+"how": "loose"
+},
+"18dbdb52-cb84-43d5-8d0e-15eb5a036556": {
+"name": "CrashCart Medicart (Large)",
+"source": "R5",
+"file": "vehicles",
+"from": 143,
+"to": 142,
+"how": "strict"
+},
+"62C611C4-F081-43AD-8EFD-02FFDFE3014C": {
+"name": "Speakers",
+"source": "R5",
+"file": "vehicles",
+"from": 128,
+"to": 131,
+"how": "strict"
+},
+"fb73c19c-c194-45fe-8235-0ac2369dabd6": {
+"name": "Special Armor Modification (Chemical)",
+"source": "R5",
+"file": "vehicles",
+"from": 159,
+"to": 160,
+"how": "strict"
+},
+"0f5c3fc1-04d6-4cec-9e65-7baca6139e74": {
+"name": "Standard Drone Rack (Micro)",
+"source": "R5",
+"file": "vehicles",
+"from": 160,
+"to": 162,
+"how": "strict"
+},
+"dffbc67e-c9b9-4876-bebc-ebf424590b71": {
+"name": "Extreme Environment Modification",
+"source": "R5",
+"file": "vehicles",
+"from": 164,
+"to": 167,
+"how": "strict"
+},
+"de59fe6d-b61b-4f28-b6e4-d8b022fd8bb0": {
+"name": "Sensor Enhancement",
+"source": "R5",
+"file": "vehicles",
+"from": 167,
+"to": 168,
+"how": "strict"
+},
+"1a626185-b826-466c-aa73-32c02bae4bef": {
+"name": "Gecko Grips (Drone)",
+"source": "R5",
+"file": "vehicles",
+"from": 125,
+"to": 126,
+"how": "strict"
+},
+"bec278ef-6841-4538-8000-65b3f96261d7": {
+"name": "Submersible (Drone)",
+"source": "R5",
+"file": "vehicles",
+"from": 125,
+"to": 128,
+"how": "loose"
+},
+"f7926ae0-bba6-4de0-964d-f535a8adeed5": {
+"name": "Off-Road Tires",
+"source": "R5",
+"file": "vehicles",
+"from": 152,
+"to": 153,
+"how": "strict"
+},
+"bac2fcca-1edd-4814-ba50-31d63f031d4e": {
+"name": "Racing Tires",
+"source": "R5",
+"file": "vehicles",
+"from": 152,
+"to": 153,
+"how": "strict"
+},
+"aba3338c-0a54-4486-84a4-2e74524b63de": {
+"name": "Run-Flat Tires",
+"source": "R5",
+"file": "vehicles",
+"from": 152,
+"to": 153,
+"how": "strict"
+},
+"1b44540c-b463-47ed-b288-cf4a8e130eab": {
+"name": "Light",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"4e9da56b-622c-439f-9718-98ac3a792351": {
+"name": "Standard",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"73f6f721-9732-4773-8ce6-0e3f5222a49f": {
+"name": "Heavy",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"20e7d5d5-da20-4466-99b7-977a578155e4": {
+"name": "External",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 164,
+"how": "strict"
+},
+"4d90a1e3-8602-488e-b837-f155b4549084": {
+"name": "Internal",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"ad732625-c8bc-4e24-bc84-90c8449e82d5": {
+"name": "Concealed",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"5d53c232-c18d-4546-bb50-5325f57eb422": {
+"name": "Fixed",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"8a0be4c4-5717-4a82-a1cd-35cd0315d180": {
+"name": "Flexible",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"df720a43-31aa-4053-9f2e-30ec4923cfe8": {
+"name": "Remote",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"0c05f936-4826-418f-b798-848dafa4b4a0": {
+"name": "Manual",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"05995261-b645-48b5-9a54-9f26becc9d5d": {
+"name": "Armored Manual",
+"source": "R5",
+"file": "vehicles",
+"from": 163,
+"to": 162,
+"how": "strict"
+},
+"deb30d8e-6de3-43a5-85d7-2ced876fc273": {
+"name": "Lighter (Disposable)",
+"source": "RF",
+"file": "gear",
+"from": 255,
+"to": 254,
+"how": "strict"
+},
+"67023613-54af-4950-9a6e-a33bee9ecf59": {
+"name": "Native American Nations",
+"source": "RF",
+"file": "lifemodules",
+"from": 67,
+"to": 66,
+"how": "loose"
+},
+"abf41e28-123f-bb00-da29-124ce213dca2": {
+"name": "High School",
+"source": "RF",
+"file": "lifemodules",
+"from": 71,
+"to": 70,
+"how": "strict"
+},
+"3f82fc4f-9cbf-4baf-a8a2-51ab9c75a7f6": {
+"name": "Trade/Technical School",
+"source": "RF",
+"file": "lifemodules",
+"from": 75,
+"to": 76,
+"how": "strict"
+},
+"35e2e527-2c63-4193-abe3-1c72063c8d6f": {
+"name": "Railway Pass",
+"source": "RF",
+"file": "lifestyles",
+"from": 222,
+"to": 223,
+"how": "strict"
+},
+"6c47713d-46ba-495d-800c-f77c306cf9df": {
+"name": "Corporate Owned",
+"source": "RF",
+"file": "lifestyles",
+"from": 225,
+"to": 224,
+"how": "strict"
+},
+"2819315d-468c-4910-a185-c7ea8bc3690d": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"5f618c01-e149-4dc6-8fcd-22f548a9f155": {
+"name": "Shapeshifter: Bovine",
+"source": "RF",
+"file": "metatypes",
+"from": 105,
+"to": 106,
+"how": "strict"
+},
+"5abf92b8-3d95-478c-8ebf-9ebc988cbcf4": {
+"name": "Shapeshifter: Canine",
+"source": "RF",
+"file": "metatypes",
+"from": 105,
+"to": 106,
+"how": "strict"
+},
+"6b9844d0-3e17-442f-a34d-f12f52b1c291": {
+"name": "Shapeshifter: Pantherine",
+"source": "RF",
+"file": "metatypes",
+"from": 105,
+"to": 106,
+"how": "strict"
+},
+"9ebede5b-b693-4cab-9469-e72f625c485c": {
+"name": "Shapeshifter: Ursine",
+"source": "RF",
+"file": "metatypes",
+"from": 105,
+"to": 106,
+"how": "strict"
+},
+"3ea0d4dd-5ed7-4ab0-817f-68d7d67ab3d1": {
+"name": "Changeling (Class I SURGE)",
+"source": "RF",
+"file": "qualities",
+"from": 103,
+"to": 102,
+"how": "strict"
+},
+"8a09e5c6-8b0a-4fbb-80dc-42020fac96b5": {
+"name": "Dermal Alteration (Blubber)",
+"source": "RF",
+"file": "qualities",
+"from": 112,
+"to": 113,
+"how": "strict"
+},
+"30e8dab2-f435-4169-be3c-7e53a7840010": {
+"name": "Claws (Sasquatch)",
+"source": "RF",
+"file": "weapons",
+"from": 105,
+"to": 103,
+"how": "strict"
+},
+"9166244c-440b-44a1-8795-4917b53e6101": {
+"name": "Standard (Burnout's Way)",
+"source": "SG",
+"file": "bioware",
+"from": 177,
+"to": 176,
+"how": "strict"
+},
+"81ddedd0-1624-4e4d-94ba-f2614b875e77": {
+"name": "Soldier Spirit",
+"source": "SG",
+"file": "critters",
+"from": 98,
+"to": 99,
+"how": "loose"
+},
+"5dfe1cbd-1a56-40b9-bae4-8358352f40db": {
+"name": "Mystic Jacket",
+"source": "SG",
+"file": "gear",
+"from": 214,
+"to": 217,
+"how": "strict"
+},
+"563ce20d-60e8-48de-9ef2-d2c65dbc9959": {
+"name": "Mystic Mask",
+"source": "SG",
+"file": "gear",
+"from": 214,
+"to": 217,
+"how": "strict"
+},
+"e78d376c-76e0-479e-b2c1-9b094d89f0c1": {
+"name": "Magemask",
+"source": "SG",
+"file": "gear",
+"from": 215,
+"to": 217,
+"how": "strict"
+},
+"f2720e1b-494d-4d5b-9de2-7dc367f5b2a8": {
+"name": "Danger Sense",
+"source": "SG",
+"file": "metamagic",
+"from": 145,
+"to": 147,
+"how": "strict"
+},
+"43be9ef8-d7e9-47fe-ac79-7d15c508a2ad": {
+"name": "The Twisted Way",
+"source": "SG",
+"file": "qualities",
+"from": 85,
+"to": 84,
+"how": "strict"
+},
+"ad2dd39f-4fb0-4e89-8d73-b76184ecb1cf": {
+"name": "Queen Spirit",
+"source": "SG",
+"file": "traditions",
+"from": 99,
+"to": 96,
+"how": "loose"
+},
+"403adcb1-0739-4b20-816f-7854005eb227": {
+"name": "Urban Explorer Daedalus",
+"source": "SL",
+"file": "armor",
+"from": 48,
+"to": 47,
+"how": "strict"
+},
+"0a7930f5-5466-439a-956d-2bba57f25ed9": {
+"name": "Parachute (Urban Explorer Daedalus)",
+"source": "SL",
+"file": "armor",
+"from": 48,
+"to": 47,
+"how": "loose"
+},
+"d847b2bc-1ff6-4fce-a799-17129fef4ff7": {
+"name": "Company Troubleshooter",
+"source": "SL",
+"file": "lifemodules",
+"from": 129,
+"to": 128,
+"how": "strict"
+},
+"0f4e4c01-f781-44a7-a630-a92e59b63a28": {
+"name": "Gone AWOL",
+"source": "SL",
+"file": "lifemodules",
+"from": 181,
+"to": 180,
+"how": "strict"
+},
+"991a62d3-456e-4c86-94a2-2c20ea11c7e1": {
+"name": "Gone Native",
+"source": "SL",
+"file": "lifemodules",
+"from": 180,
+"to": 181,
+"how": "strict"
+},
+"3e6efacd-4503-45f7-a5a8-4fbed9c2f5bc": {
+"name": "Lost In The Wilds",
+"source": "SL",
+"file": "lifemodules",
+"from": 180,
+"to": 181,
+"how": "strict"
+},
+"4f1cc61b-7eae-4909-b549-5dda9e6f3f3f": {
+"name": "Maersk Shipyards Wavecutter MPAC",
+"source": "SL",
+"file": "vehicles",
+"from": 131,
+"to": 132,
+"how": "strict"
+},
+"34a9f54c-59b3-43dc-a2ec-aef07095a02c": {
+"name": "Krime Bill",
+"source": "SL",
+"file": "weapons",
+"from": 21,
+"to": 20,
+"how": "strict"
+},
+"acd7a37d-704e-402f-ab4e-0c2e195a6484": {
+"name": "Krime Reaver Axe",
+"source": "SL",
+"file": "weapons",
+"from": 21,
+"to": 20,
+"how": "strict"
+},
+"4a57fae3-a9f8-489c-9bfb-f4a09875de9a": {
+"name": "Krime Reaver Pick",
+"source": "SL",
+"file": "weapons",
+"from": 21,
+"to": 20,
+"how": "strict"
+},
+"c7031809-01ae-4477-87fb-608eb64a927e": {
+"name": "Krime Reaver Knob",
+"source": "SL",
+"file": "weapons",
+"from": 21,
+"to": 20,
+"how": "strict"
+},
+"fda72df6-5f5a-4125-ae77-308cfed00fba": {
+"name": "Krime Shiv",
+"source": "SL",
+"file": "weapons",
+"from": 21,
+"to": 20,
+"how": "strict"
+},
+"cbac989a-92f4-4eb8-a6ff-a9b5f7571d5d": {
+"name": "Cavalier Thunderstruck",
+"source": "SL",
+"file": "weapons",
+"from": 30,
+"to": 31,
+"how": "strict"
+},
+"88336c7d-f599-4e83-aea7-4d1fcab5e296": {
+"name": "Hammerli Gemini",
+"source": "SL",
+"file": "weapons",
+"from": 29,
+"to": 31,
+"how": "strict"
+},
+"bda98b10-6aa3-49d6-a44b-e2feba5683bf": {
+"name": "Onotari Arms Vagabond",
+"source": "SL",
+"file": "weapons",
+"from": 33,
+"to": 34,
+"how": "strict"
+},
+"63f03317-e192-4354-a504-106dc6b78004": {
+"name": "Izom Artemis",
+"source": "SL",
+"file": "weapons",
+"from": 36,
+"to": 37,
+"how": "strict"
+},
+"823ffbe6-b8a9-43f6-91e1-ba3e312ce577": {
+"name": "Narcoject Trackstopper",
+"source": "SL",
+"file": "weapons",
+"from": 44,
+"to": 45,
+"how": "strict"
+},
+"20f3fdc1-6652-4619-a606-1a3d7bad1296": {
+"name": "Spare Clip (Hammerli Gemini)",
+"source": "SL",
+"file": "weapons",
+"from": 31,
+"to": 32,
+"how": "loose"
+},
+"3e5bc4f5-f36e-4152-9e2b-a07c316ed017": {
+"name": "Ranged Defense",
+"source": "SR5",
+"file": "actions",
+"from": 186,
+"to": 188,
+"how": "strict"
+},
+"40d06d20-e124-4a80-aee3-16352d02d3ba": {
+"name": "Assense",
+"source": "SR5",
+"file": "actions",
+"from": 312,
+"to": 313,
+"how": "loose"
+},
+"c46fbaba-d941-44b5-9bdc-643c5c6f4b24": {
+"name": "Damage Compensators",
+"source": "SR5",
+"file": "bioware",
+"from": 460,
+"to": 461,
+"how": "strict"
+},
+"d4a66987-de45-4bd1-a1f3-c8573ba6d8cf": {
+"name": "Horse",
+"source": "SR5",
+"file": "critters",
+"from": 403,
+"to": 402,
+"how": "strict"
+},
+"49434a88-ced1-46e3-b650-b0bd12ddd480": {
+"name": "Basilisk",
+"source": "SR5",
+"file": "critters",
+"from": 404,
+"to": 403,
+"how": "strict"
+},
+"7f0f9028-4351-4729-a363-ff8533895d1c": {
+"name": "Spirit of Air",
+"source": "SR5",
+"file": "critters",
+"from": 303,
+"to": 301,
+"how": "loose"
+},
+"8e414ade-2764-4dc7-bdc4-83bb4a086034": {
+"name": "Cybereyes Basic System",
+"source": "SR5",
+"file": "cyberware",
+"from": 453,
+"to": 454,
+"how": "strict"
+},
+"89a0f3c9-5ef6-41cd-981f-4ac690ee2ab3": {
+"name": "Meta Link",
+"source": "SR5",
+"file": "gear",
+"from": 438,
+"to": 439,
+"how": "strict"
+},
+"d808ba12-db93-4a7b-85a1-9e9f6229087f": {
+"name": "Sony Emperor",
+"source": "SR5",
+"file": "gear",
+"from": 438,
+"to": 439,
+"how": "strict"
+},
+"15a6c42b-12a4-494e-8ca5-e6c3a1052314": {
+"name": "Renraku Sensei",
+"source": "SR5",
+"file": "gear",
+"from": 438,
+"to": 439,
+"how": "strict"
+},
+"72d1ca07-71b1-4085-8a4d-bd720a6b1908": {
+"name": "Erika Elite",
+"source": "SR5",
+"file": "gear",
+"from": 438,
+"to": 439,
+"how": "strict"
+},
+"6de5a1b0-30e2-4c74-8646-971f698cb231": {
+"name": "Hermes Ikon",
+"source": "SR5",
+"file": "gear",
+"from": 438,
+"to": 439,
+"how": "strict"
+},
+"01077e2d-4f67-428a-850d-250faad2007c": {
+"name": "Transys Avalon",
+"source": "SR5",
+"file": "gear",
+"from": 438,
+"to": 439,
+"how": "strict"
+},
+"1522dd91-99d9-42f9-ab19-b43e8e3c7322": {
+"name": "Fairlight Caliban",
+"source": "SR5",
+"file": "gear",
+"from": 438,
+"to": 439,
+"how": "strict"
+},
+"18eb72a1-2b4d-4800-9669-d9e62ecc50b3": {
+"name": "Scratch-Built Junk",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"9d410862-89ae-408c-8342-82f7e6c1ae8f": {
+"name": "Radio Shack Remote Controller",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"d157fdf9-2315-4402-af6e-2aa4924f6a82": {
+"name": "Essy Motors DroneMaster",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"f35d6a78-de2c-4b99-9509-2c87c5e382b4": {
+"name": "CompuForce TaskMaster",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"a2c33659-d930-4eb8-9fac-238a67009def": {
+"name": "Maersk Spider",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"3f1e53d0-3f2f-4672-8cca-9f6d7ee979de": {
+"name": "Maser Industrial Electronics",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"c8642e4c-6d1e-4338-8a7b-dd63c866a485": {
+"name": "Vulcan Liegelord",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"f9941dbe-1db1-4948-a8be-d760733446ea": {
+"name": "Proteus Poseidon",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"4eebf70d-6e0f-4bbb-9356-3eaac0150d4d": {
+"name": "Lone Star Remote Commander",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"f13946fe-8e30-466f-8fc4-9aba7ba7b0f8": {
+"name": "MCT Drone Web",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"fe9d2aa1-f914-4e3b-b1ec-29cc97312c34": {
+"name": "Triox UberMensch",
+"source": "SR5",
+"file": "gear",
+"from": 266,
+"to": 267,
+"how": "strict"
+},
+"ea3178a2-535f-43b7-8555-deca95ac837d": {
+"name": "Guard",
+"source": "SR5",
+"file": "gear",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"149a8dd2-dfef-473f-94a4-1bdd77e4f855": {
+"name": "Clearsight Autosoft",
+"source": "SR5",
+"file": "gear",
+"from": 269,
+"to": 271,
+"how": "loose"
+},
+"0c800bca-e6ff-475b-a014-c2069f5e364c": {
+"name": "Fake SIN",
+"source": "SR5",
+"file": "gear",
+"from": 442,
+"to": 443,
+"how": "strict"
+},
+"fa2851aa-841e-4d9c-a1e4-96a5e5eb4462": {
+"name": "Binoculars, Optical",
+"source": "SR5",
+"file": "gear",
+"from": 443,
+"to": 444,
+"how": "strict"
+},
+"49bbc9d3-860d-47db-b4bc-8417f5b6ab65": {
+"name": "Handheld Housing",
+"source": "SR5",
+"file": "gear",
+"from": 445,
+"to": 446,
+"how": "strict"
+},
+"5e4772d7-5cba-4cc4-988d-38ef79b41fd3": {
+"name": "Wall-Mounted Housing",
+"source": "SR5",
+"file": "gear",
+"from": 445,
+"to": 446,
+"how": "loose"
+},
+"dff54f55-846d-4017-84e2-dd1f1c29861f": {
+"name": "Catalyst Stick",
+"source": "SR5",
+"file": "gear",
+"from": 449,
+"to": 450,
+"how": "strict"
+},
+"8adaecd5-0c24-4982-8803-e4459e16589f": {
+"name": "Standard Rope (100m)",
+"source": "SR5",
+"file": "gear",
+"from": 449,
+"to": 450,
+"how": "strict"
+},
+"62bfb38d-5515-440b-83ed-289ed926d27e": {
+"name": "Power Focus",
+"source": "SR5",
+"file": "gear",
+"from": 319,
+"to": 318,
+"how": "strict"
+},
+"a64c073c-8aa9-4383-b885-267f8ce1ea99": {
+"name": "Qi Focus",
+"source": "SR5",
+"file": "gear",
+"from": 319,
+"to": 318,
+"how": "strict"
+},
+"25b0168d-7052-4f76-b8e5-162d67b8ab6e": {
+"name": "Weapon Focus",
+"source": "SR5",
+"file": "gear",
+"from": 320,
+"to": 318,
+"how": "strict"
+},
+"24e87c73-22be-480d-bb79-978277672a1d": {
+"name": "Neuro-Stun VIII",
+"source": "SR5",
+"file": "gear",
+"from": 410,
+"to": 409,
+"how": "strict"
+},
+"4ad3f9ea-4ee0-45f8-a57b-ed40c660d0b0": {
+"name": "Neuro-Stun X",
+"source": "SR5",
+"file": "gear",
+"from": 410,
+"to": 409,
+"how": "strict"
+},
+"559653df-a9af-44e2-9e04-3044c1d1b421": {
+"name": "Street",
+"source": "SR5",
+"file": "lifestyles",
+"from": 369,
+"to": 373,
+"how": "manual"
+},
+"9367556e-f82f-4f9d-840e-24c8f824ca68": {
+"name": "Squatter",
+"source": "SR5",
+"file": "lifestyles",
+"from": 369,
+"to": 373,
+"how": "manual"
+},
+"4b513ac9-9eb3-471b-931b-839a04873b84": {
+"name": "Luxury",
+"source": "SR5",
+"file": "lifestyles",
+"from": 369,
+"to": 373,
+"how": "manual"
+},
+"8caaadf4-75b4-4535-928a-5648d395c13a": {
+"name": "Adrenaline Boost",
+"source": "SR5",
+"file": "powers",
+"from": 309,
+"to": 308,
+"how": "strict"
+},
+"d2f96d3a-9dcb-4b46-b5bd-b98a730bf1d7": {
+"name": "Hammer",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"01c5f885-d14f-478d-8e1d-612773035480": {
+"name": "Lockdown",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"e3382b40-114e-456a-982a-f52d135527f5": {
+"name": "Mugger",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"ff9378d1-b6bc-4adc-8651-a9689a1b92b9": {
+"name": "Shell",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"f7b5a9a3-c030-4647-b043-f968913867b4": {
+"name": "Sneak",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"a381db11-6e7f-4472-b4ef-79a16be65ba4": {
+"name": "Stealth",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"7306594f-5e07-440e-a2db-a6dfbe0b90cb": {
+"name": "Track",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"1b78748c-9a1d-427f-8657-e3e2bc8fd5b5": {
+"name": "Wrapper",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"e00623e1-54b0-4a91-b234-3c7e141deef4": {
+"name": "SINner (Corporate)",
+"source": "SR5",
+"file": "qualities",
+"from": 85,
+"to": 86,
+"how": "strict"
+},
+"e9f1e14b-1f59-46d6-9e9f-e808d7316d76": {
+"name": "Stunball",
+"source": "SR5",
+"file": "spells",
+"from": 284,
+"to": 285,
+"how": "strict"
+},
+"8d185e0e-5f49-4992-babd-d1ac9c848f68": {
+"name": "Shamanic",
+"source": "SR5",
+"file": "traditions",
+"from": 279,
+"to": 280,
+"how": "strict"
+},
+"582c31e0-1374-4ebb-b201-a20cb815d6dd": {
+"name": "External [SR5]",
+"source": "SR5",
+"file": "vehicles",
+"from": 461,
+"to": 458,
+"how": "strict"
+},
+"70f99fae-470f-442c-a607-ef3465e27f37": {
+"name": "Remote [SR5]",
+"source": "SR5",
+"file": "vehicles",
+"from": 461,
+"to": 462,
+"how": "loose"
+},
+"b3827611-f631-461e-8660-e744593ba2d2": {
+"name": "Gas-Vent 2 System",
+"source": "SR5",
+"file": "weapons",
+"from": 431,
+"to": 430,
+"how": "loose"
+},
+"d57d2c64-1f61-4f5f-a465-8ce0dfacec6a": {
+"name": "Smartgun System, Internal",
+"source": "SR5",
+"file": "weapons",
+"from": 433,
+"to": 432,
+"how": "strict"
+},
+"b3562903-b1c6-4300-9f6e-25e0102aa69b": {
+"name": "Smartgun System, External",
+"source": "SR5",
+"file": "weapons",
+"from": 433,
+"to": 432,
+"how": "strict"
+},
+"902585b9-5806-41cf-8498-e47444284236": {
+"name": "Body Bag",
+"source": "SS",
+"file": "gear",
+"from": 173,
+"to": 176,
+"how": "loose"
+},
+"1ecebb15-6ced-464e-9e36-2cd217e4bc63": {
+"name": "Uniforms",
+"source": "SS",
+"file": "gear",
+"from": 178,
+"to": 176,
+"how": "loose"
+},
+"8ea29de5-c231-46c8-ab47-a73041b40c69": {
+"name": "Caldwell Lily Extract, Concentrated",
+"source": "SS",
+"file": "gear",
+"from": 188,
+"to": 186,
+"how": "strict"
+},
+"547c0959-7a9b-487c-adec-54f639585695": {
+"name": "Fashion",
+"source": "SS",
+"file": "spells",
+"from": 190,
+"to": 189,
+"how": "strict"
+},
+"c6995b10-5fff-44c2-8182-0a0a1b30cc6b": {
+"name": "Petrify",
+"source": "SSP",
+"file": "spells",
+"from": 21,
+"to": 22,
+"how": "strict"
+},
+"65a02e9c-6472-406e-b5d1-17ec184c8ed2": {
+"name": "Pulse",
+"source": "SSP",
+"file": "spells",
+"from": 21,
+"to": 22,
+"how": "strict"
+},
+"48f38481-6ece-4157-8594-d49a86eeb91a": {
+"name": "Radiation Shield",
+"source": "SSP",
+"file": "spells",
+"from": 21,
+"to": 22,
+"how": "strict"
+},
+"8689fa5c-5965-4230-9706-245be36b242c": {
+"name": "Radiation Barrier",
+"source": "SSP",
+"file": "spells",
+"from": 21,
+"to": 22,
+"how": "strict"
+},
+"30109563-d9cb-4ced-b06b-6c3d0c4f5a34": {
+"name": "Egyptian",
+"source": "SSP",
+"file": "traditions",
+"from": 3,
+"to": 4,
+"how": "strict"
+},
+"43bc28ad-8818-4062-9b55-317f45d1e04e": {
+"name": "Norse",
+"source": "SSP",
+"file": "traditions",
+"from": 4,
+"to": 5,
+"how": "strict"
+},
+"74ccca34-925c-4149-a58b-501e69cabe46": {
+"name": "Rockblood Signature Armored Shirt",
+"source": "TCT",
+"file": "armor",
+"from": 186,
+"to": 187,
+"how": "strict"
+},
+"24299462-b0d1-470e-b520-64fb755421db": {
+"name": "Reinforced Microwire (100m)",
+"source": "TCT",
+"file": "gear",
+"from": 185,
+"to": 186,
+"how": "strict"
+},
+"54fc44f0-fc74-4efb-a323-1bd47c8ca5e1": {
+"name": "Reinforced Standard Rope (100m)",
+"source": "TCT",
+"file": "gear",
+"from": 185,
+"to": 186,
+"how": "strict"
+},
+"3a9dc42d-6fb8-42f2-93c3-554d67a7eb6a": {
+"name": "Reinforced Stealth Rope (100m)",
+"source": "TCT",
+"file": "gear",
+"from": 185,
+"to": 186,
+"how": "strict"
+},
+"e6d5c030-9aa7-46da-a9cb-7db33bbfd23f": {
+"name": "Folding Metachair, Basic",
+"source": "TCT",
+"file": "gear",
+"from": 184,
+"to": 187,
+"how": "loose"
+},
+"62dd61be-f1c4-4310-8545-73a4a4645393": {
+"name": "Standard (Burnout's Way)",
+"source": "SG",
+"file": "cyberware",
+"from": 177,
+"to": 176,
+"how": "strict"
+},
+"4db89466-a1e7-4507-9849-9ce3eef56fc9": {
+"name": "Standard (Burnout's Way) (Adapsin)",
+"source": "SG",
+"file": "cyberware",
+"from": 177,
+"to": 176,
+"how": "strict"
+},
+"83d207e5-ec4e-4f73-9fd2-c172f7196fb4": {
+"name": "Retractable Climbing Claws (Feet)",
+"source": "CF",
+"file": "cyberware",
+"from": 86,
+"to": 85,
+"how": "strict"
+},
+"e0083f6c-14a0-473d-9956-98f8879a7951": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"514b541e-caba-4142-8416-b35b4ee80282": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"dc386b73-2ce1-4ea1-a5d0-63bff82cb321": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"73023ab3-d59f-4b00-b0f5-de7e00058663": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"3408a702-feae-4722-aee4-7118a5b4f6f4": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"19c29d57-50f3-4055-aa10-b7291d3daccf": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"b8caa086-c4e0-495f-b2fc-c11376ad49e6": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"29b7ac0f-b6e1-4667-87f5-42547555dbc2": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"23253f86-b01d-4f58-bf43-8c093af47e49": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"5601777e-4bc4-4786-8738-bb684dbbb3f8": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"f0ae10a2-2a47-4752-bda0-4072912b73b3": {
+"name": "Gnome",
+"source": "RF",
+"file": "metatypes",
+"from": 89,
+"to": 88,
+"how": "strict"
+},
+"4a79b908-8239-4b3a-9c82-e2420be2a174": {
+"name": "Guard",
+"source": "SR5",
+"file": "programs",
+"from": 245,
+"to": 246,
+"how": "strict"
+},
+"012d2de2-79cb-4f3b-9571-47c8b550a505": {
+"name": "Clearsight Autosoft",
+"source": "SR5",
+"file": "programs",
+"from": 269,
+"to": 271,
+"how": "loose"
+},
+"bb16aae9-b511-47b2-93c4-217918346cc8": {
+"name": "Changeling (Class II SURGE)",
+"source": "RF",
+"file": "qualities",
+"from": 103,
+"to": 102,
+"how": "strict"
+},
+"9baa5b9d-e96c-466d-b0b4-dd789a6c0f83": {
+"name": "Changeling (Class III SURGE)",
+"source": "RF",
+"file": "qualities",
+"from": 103,
+"to": 102,
+"how": "strict"
+},
+"380a4860-e5b7-4d07-9b8f-24951c1d656a": {
+"name": "Spirit of Air",
+"source": "SR5",
+"file": "traditions",
+"from": 303,
+"to": 301,
+"how": "loose"
+},
+"caf8f724-e1a9-4469-998d-76d23fe4014e": {
+"name": "Soldier Spirit",
+"source": "SG",
+"file": "traditions",
+"from": 98,
+"to": 99,
+"how": "loose"
+},
+"031312f4-3ab0-4e5e-96e4-69e035a444c1": {
+"name": "Special Armor Modification (Fire)",
+"source": "R5",
+"file": "vehicles",
+"from": 159,
+"to": 160,
+"how": "strict"
+},
+"620c48d2-060b-4fdb-a886-611312204892": {
+"name": "Special Armor Modification (Insulation)",
+"source": "R5",
+"file": "vehicles",
+"from": 159,
+"to": 160,
+"how": "strict"
+},
+"958920e2-828c-4024-a700-25e5023dbdac": {
+"name": "Special Armor Modification (Nonconductivity)",
+"source": "R5",
+"file": "vehicles",
+"from": 159,
+"to": 160,
+"how": "strict"
+},
+"242a415b-024a-4589-91ce-978a12ff04ad": {
+"name": "Special Armor Modification (Radiation)",
+"source": "R5",
+"file": "vehicles",
+"from": 159,
+"to": 160,
+"how": "strict"
+},
+"df87cb45-8df9-4d6b-8c78-b2e2ed8efa81": {
+"name": "Special Armor Modification (Universal Mirror Material)",
+"source": "R5",
+"file": "vehicles",
+"from": 159,
+"to": 160,
+"how": "strict"
+},
+"fa0b86df-1678-4d02-bcec-fec68831e1a8": {
+"name": "Standard Drone Rack (Mini)",
+"source": "R5",
+"file": "vehicles",
+"from": 160,
+"to": 162,
+"how": "strict"
+},
+"78352843-9b29-4988-a4f8-c49977641a94": {
+"name": "Standard Drone Rack (Small)",
+"source": "R5",
+"file": "vehicles",
+"from": 160,
+"to": 162,
+"how": "strict"
+},
+"81981ae4-b62a-450e-9170-cbfaeb8af4fd": {
+"name": "Standard Drone Rack (Medium)",
+"source": "R5",
+"file": "vehicles",
+"from": 160,
+"to": 162,
+"how": "strict"
+},
+"f8771819-0188-444e-80a0-586f033599e4": {
+"name": "Standard Drone Rack (Large)",
+"source": "R5",
+"file": "vehicles",
+"from": 160,
+"to": 162,
+"how": "strict"
+},
+"ad2ea9ea-74d0-411d-89b7-20702ee4105d": {
+"name": "Retractable Climbing Claws",
+"source": "CF",
+"file": "weapons",
+"from": 86,
+"to": 85,
+"how": "strict"
+},
+"4225b0c1-2da0-4dd9-9c98-2136a57946cf": {
+"name": "Throwing Syringe",
+"source": "HT",
+"file": "weapons",
+"from": 183,
+"to": 184,
+"how": "strict"
+},
+"b84e7ffe-acae-461c-a7ce-67056976a96e": {
+"name": "Ares Briefcase Shield",
+"source": "CA",
+"file": "weapons",
+"from": 136,
+"to": 137,
+"how": "strict"
+},
+"451eef87-d18e-4bee-a972-1ee165b08522": {
+"name": "Low",
+"source": "SR5",
+"file": "lifestyles",
+"from": 369,
+"to": 373,
+"how": "manual"
+},
+"4a37d519-c9be-4ecc-97bb-e9d78708c374": {
+"name": "High",
+"source": "SR5",
+"file": "lifestyles",
+"from": 369,
+"to": 373,
+"how": "manual"
+},
+"4be85958-af8f-4404-812f-0d8a426f01d6": {
+"name": "Hospitalized, Basic",
+"source": "SR5",
+"file": "lifestyles",
+"from": 369,
+"to": 374,
+"how": "manual"
+},
+"2be1a0f7-6133-4966-be57-720ed9b927a9": {
+"name": "Hospitalized, Intensive",
+"source": "SR5",
+"file": "lifestyles",
+"from": 369,
+"to": 374,
+"how": "manual"
+}
+}
